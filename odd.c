@@ -1,5 +1,5 @@
 # include<stdio.h>
-void main()
+int main()
 {
 int i,a;
 scanf("%d",&a);
@@ -11,4 +11,5 @@ else
 {
 printf("number is odd");
 }
+return 0;
 }
